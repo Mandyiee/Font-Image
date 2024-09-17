@@ -14,7 +14,7 @@ The program allows users to:
 3. Renders the entered text into a grayscale image and converts it into an RGB PNG file with the specified colors.
 
 This was done with the program
-
+![The letters of the Alphabets](https://raw.githubusercontent.com/Mandyiee/Font-Image/main/images/text.png)
 
 ## Dependencies
 
