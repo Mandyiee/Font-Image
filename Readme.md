@@ -13,7 +13,7 @@ The program allows users to:
 2. Specify a custom foreground and background color for the rendered text in the image.
 3. Renders the entered text into a grayscale image and converts it into an RGB PNG file with the specified colors.
 
-This was done with the program
+This was made by the program
 ![The letters of the Alphabets](https://raw.githubusercontent.com/Mandyiee/Font-Image/main/images/text.png)
 
 ## Dependencies
